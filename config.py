@@ -7,4 +7,4 @@ MODES = {
     "secure": False,
     "tls": True
 }
-TLS_DOMAIN = "i0.hdslb.com"
+TLS_DOMAIN = "cos.ap-shanghai.myqcloud.com"
