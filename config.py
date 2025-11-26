@@ -7,4 +7,4 @@ MODES = {
     "secure": False,
     "tls": True
 }
-TLS_DOMAIN = "cos.ap-shanghai.myqcloud.com"
+TLS_DOMAIN = "audio.itunes.apple.com"
